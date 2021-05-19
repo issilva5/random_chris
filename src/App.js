@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import Content from './components/content/content'
 import React, { Component } from 'react';
